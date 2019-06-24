@@ -34,7 +34,7 @@ Entered tooltips: this was implemented in the D3 graphics as the user hovers ove
 
 ### Visualization
 
-![Healthplot](assets/images/Healthplot.jpg)
+![Healthplot](StarterCode/assets/images/Healthplot.jpg)
 
 ## Copyright
 
